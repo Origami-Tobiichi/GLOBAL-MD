@@ -16793,7 +16793,7 @@ break
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
-╰─────❍`
+╰──────❍`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./GlobalMedia/theme/cheemspic.jpg'),
@@ -16947,7 +16947,7 @@ let msg = generateWAMessageFromContent(m.chat, {
           }),
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
               }
@@ -16985,18 +16985,6 @@ let msg = generateWAMessageFromContent(m.chat, {
                 }),
                 nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
                   buttons: [
-             {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
@@ -17137,7 +17125,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -17962,7 +17950,7 @@ let msg = generateWAMessageFromContent(m.chat, {
           }),
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
               }
@@ -18000,18 +17988,6 @@ let msg = generateWAMessageFromContent(m.chat, {
                 }),
                 nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
                   buttons: [
-             {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
@@ -18152,7 +18128,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -18425,7 +18401,7 @@ let msg = generateWAMessageFromContent(m.chat, {
           }),
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
               }
@@ -18463,18 +18439,6 @@ let msg = generateWAMessageFromContent(m.chat, {
                 }),
                 nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
                   buttons: [
-             {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
@@ -18615,7 +18579,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -18868,7 +18832,7 @@ let msg = generateWAMessageFromContent(m.chat, {
           }),
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
               }
@@ -18906,18 +18870,6 @@ let msg = generateWAMessageFromContent(m.chat, {
                 }),
                 nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
                   buttons: [
-             {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
-              },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
-              },
               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
@@ -19058,7 +19010,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	     }
@@ -19265,7 +19217,7 @@ let msg = generateWAMessageFromContent(m.chat, {
           }),
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
               }
@@ -19455,7 +19407,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -19878,7 +19830,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -20322,7 +20274,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -20731,7 +20683,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -21185,7 +21137,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -21590,7 +21542,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -21991,7 +21943,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -22407,7 +22359,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -22818,7 +22770,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -23279,7 +23231,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -23683,7 +23635,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -24215,7 +24167,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 		      }
@@ -24626,7 +24578,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -25031,7 +24983,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -25437,7 +25389,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -25837,7 +25789,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -26243,7 +26195,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
@@ -26656,7 +26608,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
+               {
                  "name": "cta_url",
                  "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
